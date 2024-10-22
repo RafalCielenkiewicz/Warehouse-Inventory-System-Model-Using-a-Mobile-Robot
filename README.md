@@ -11,6 +11,9 @@ Design and implementation of a proven warehouse inventory system model, consisti
 ![image](https://github.com/user-attachments/assets/b2cc1409-3558-4b2c-99e5-4958e1dae4ec)
 
 
+## Ownership
+
+This project is owned by Rafał Cielenkiewicz.
 
 
 
