@@ -8,7 +8,8 @@ Design and implementation of a proven warehouse inventory system model, consisti
 ![image](https://github.com/user-attachments/assets/94b66bae-211e-4266-be87-db386cfdcbc1)
 
 
-![image](https://github.com/user-attachments/assets/cc75e21e-e4dc-4de8-90cd-323ac7881f3a)
+![image](https://github.com/user-attachments/assets/5bb13bc2-a997-4ecf-89b4-8d88182cfaf9)
+
 
 
 
