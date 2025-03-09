@@ -1,22 +1,52 @@
-# Warehouse Inventory System Model Using a Mobile Robot – Engineering Thesis Topic
-
-Design and implementation of a proven warehouse inventory system model, consisting of a small mobile robot equipped with a camera and a mobile application providing a user interface. The system allows inventory verification through the robot's vision system using QR code recognition. The mobile interface enables users to control the robot's operations and monitor stock levels. Additionally, the robot has a custom 3D-printed body specifically designed for it. The main components of the robot include an ESP32-CAM, Arduino Uno R3, and a Motor Shield.
-
-![image](https://github.com/user-attachments/assets/e5d817aa-a52e-447b-8d14-9d1edc9a4b77)
+# Model of a warehouse inventory system using amobile robot
 
 
-![image](https://github.com/user-attachments/assets/94b66bae-211e-4266-be87-db386cfdcbc1)
+## About
+
+This project presents a comprehensive warehouse inventory system utilizing a mobile robot equipped with a camera and a mobile application. The system enables automated inventory verification through QR code recognition using computer vision. The mobile application provides an intuitive user interface for remote robot control and real-time stock level monitoring. The robot features a custom 3D-printed body designed specifically for this project. Key components of the robot include the ESP32-CAM, Arduino Uno R3, and a Motor Shield. The data is displayed in real-time on an administrator panel, and users can add or remove QR codes via Postman.
 
 
-![image](https://github.com/user-attachments/assets/5bb13bc2-a997-4ecf-89b4-8d88182cfaf9)
+## Features
+
+* Automated QR code scanning and inventory status updates.
+* Remote robot control via a web interface.
+* Live video streaming from the robot's camera.
+* Real-time inventory status display.
+* Ability to add and remove inventory items.
+* Custom 3D-printed robot chassis.
+* Real-time communication.
+
+## Components
+
+* **ESP32-CAM:** Handles video streaming, QR code recognition, and WiFi communication.
+* **Arduino Uno R3:** Controls robot movement via the Motor Shield.
+* **Motor Shield (L293D):** Enables control of DC motors.
+* **4 x DC Motors with Wheels:** Provide robot movement.
+* **18650 Li-Ion Batteries:** Provide power to the robot.
+* **Custom 3D-Printed Chassis:** Ensures stability and protection of components.
 
 
+## Images and Visualizations
 
+* **Robot Prototype:**
+  
+<img src="https://github.com/user-attachments/assets/c0fe470a-a8d6-4854-a639-7c978f14ad03" width="1000" alt="Robot Prototype">
 
-## Ownership
+<br>
+<br>
 
-This project is owned by Rafał Cielenkiewicz.
+* **User Interface:**
+   
+<img src="https://github.com/user-attachments/assets/5e674380-f072-4106-9932-7d1ae6bc8529" width="1000" alt="Robot Prototype">
 
+<br>
+<br>
 
+* **Inventory Table:**
+  
+<img src="https://github.com/user-attachments/assets/543c21eb-1609-4c61-8f09-03a1546bd35b" width="1000" alt="Robot Prototype">
+
+<br>
+<br>
 
 
